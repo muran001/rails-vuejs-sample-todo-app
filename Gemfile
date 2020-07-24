@@ -31,6 +31,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'devise'
 gem 'devise-i18n'
 gem 'rails-i18n'
+gem 'devise_token_auth'
 
 
 group :development, :test do
